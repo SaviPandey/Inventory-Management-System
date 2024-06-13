@@ -1,8 +1,8 @@
 
 ##            📦 Inventory Management System (IMS) 📊 
-![PHP](https://img.shields.io/badge/PHP.8%2B-blue) 
+![JAVA](https://img.shields.io/badge/Java.8%2B-blue) 
 ![MySQL](https://img.shields.io/badge/MySQL-Database-green)
-![AWS](https://img.shields.io/badge/AWS-Deployment-orange)
+![JDBC](https://img.shields.io/badge/JDBC-connectivity-orange)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 
