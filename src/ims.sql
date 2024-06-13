@@ -1,5 +1,4 @@
 -- MySQL dump 10.13  Distrib 5.6.36, for Win32 (AMD64)
---
 -- Host: localhost    Database: ims
 -- ------------------------------------------------------
 -- Server version	5.6.36-log
